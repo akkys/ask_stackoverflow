@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ask_stackoverflow/static/css/main.6cc31863.chunk.css",
+    "main.js": "/ask_stackoverflow/static/js/main.08559359.chunk.js",
+    "main.js.map": "/ask_stackoverflow/static/js/main.08559359.chunk.js.map",
+    "runtime-main.js": "/ask_stackoverflow/static/js/runtime-main.292142cb.js",
+    "runtime-main.js.map": "/ask_stackoverflow/static/js/runtime-main.292142cb.js.map",
+    "static/css/2.d873196a.chunk.css": "/ask_stackoverflow/static/css/2.d873196a.chunk.css",
+    "static/js/2.c6ff9987.chunk.js": "/ask_stackoverflow/static/js/2.c6ff9987.chunk.js",
+    "static/js/2.c6ff9987.chunk.js.map": "/ask_stackoverflow/static/js/2.c6ff9987.chunk.js.map",
+    "index.html": "/ask_stackoverflow/index.html",
+    "precache-manifest.7361e2e55c976769a29be13fd16b1c09.js": "/ask_stackoverflow/precache-manifest.7361e2e55c976769a29be13fd16b1c09.js",
+    "service-worker.js": "/ask_stackoverflow/service-worker.js",
+    "static/css/2.d873196a.chunk.css.map": "/ask_stackoverflow/static/css/2.d873196a.chunk.css.map",
+    "static/css/main.6cc31863.chunk.css.map": "/ask_stackoverflow/static/css/main.6cc31863.chunk.css.map",
+    "static/media/font-awesome.min.css": "/ask_stackoverflow/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/so-logo.png": "/ask_stackoverflow/static/media/so-logo.ac44060f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292142cb.js",
+    "static/css/2.d873196a.chunk.css",
+    "static/js/2.c6ff9987.chunk.js",
+    "static/css/main.6cc31863.chunk.css",
+    "static/js/main.08559359.chunk.js"
+  ]
+}
